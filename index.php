@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>Hello Word!</h1>
+
+    <p>ini adalah paragraph</p>
 </body>
 </html>
